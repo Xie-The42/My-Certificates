@@ -8,7 +8,8 @@
 <strong><u>Salesforce:</u></strong>
 * Salesforce Certified Marketing Cloud Email Specialist<br>
 * Salesforce Certified Marketing Cloud Consultant<br>
-- All <a href="https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=Qm3TUlnS92ADjv9/3sHgcQPT8tjnKcYGk1mueNF3yy1jrUeFxmAy1+Tth7fhnmbi"> [Credential] </a>
+
+<a href="https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=Qm3TUlnS92ADjv9/3sHgcQPT8tjnKcYGk1mueNF3yy1jrUeFxmAy1+Tth7fhnmbi"> [Credential] </a>
 
 <br><b>Programming:</b>
 * Introduction to Data Science Specialization - (4courses) <br>
