@@ -11,9 +11,11 @@
 
 <br><b>Programming:</b>
 * Introduction to Data Science Specialization <br>
- > Credential: https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z
+ > <a href=" https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z> Credential </a>
+
 * Programming for Everybody (Getting Started with Python) <br>
- > Credential: https://www.coursera.org/account/accomplishments/certificate/65J38AKVGDGX
+ > <a href="https://www.coursera.org/account/accomplishments/certificate/65J38AKVGDGX> Credential </a>
+
 --------------------------------------
 <b>In progress:</b>
 * Market Research and Consumer Behavior
