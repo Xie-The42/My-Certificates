@@ -24,8 +24,7 @@
 
 
 <br><b>Internal courses at work: </b>
-* Cloud Overview <br>
-- An overview on cloud computing technology  <br>
+* Cloud Overview <br> - An overview on cloud computing technology  <br>
 * 
 --------------------------------------
 <b>In progress:</b>
