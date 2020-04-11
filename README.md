@@ -9,16 +9,14 @@
 * Salesforce Certified Marketing Cloud Consultant<br>
  > <a href="https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=Qm3TUlnS92ADjv9/3sHgcQPT8tjnKcYGk1mueNF3yy1jrUeFxmAy1+Tth7fhnmbi"> Credential </a>
 
-<br>
-<b>Programming:</b>
+<br><b>Programming:</b>
 * Introduction to Data Science Specialization <br>
  > <a href="https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z"> Credential </a>
 
 * Programming for Everybody (Getting Started with Python) <br>
  > <a href="https://www.coursera.org/account/accomplishments/certificate/65J38AKVGDGX"> Credential </a>
 
-<br>
-<b>Other fields:</b>
+<br><b>Other fields:</b>
 
 --------------------------------------
 <b>In progress:</b>
