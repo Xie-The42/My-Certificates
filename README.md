@@ -11,7 +11,7 @@
 <a href="https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=Qm3TUlnS92ADjv9/3sHgcQPT8tjnKcYGk1mueNF3yy1jrUeFxmAy1+Tth7fhnmbi"> [Credential] </a>
 
 <br><b>Programming:</b>
-* <a href="https://www.coursera.org/specializations/introduction-data-science"> Introduction to Data Science Specialization - (4courses) </a> <br>
+* <a href="https://www.coursera.org/specializations/introduction-data-science"> Introduction to Data Science Specialization </a> - (4courses) <br>
 <a href="https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z"> [Credential] </a> <br>
 
 * <a href="https://www.coursera.org/learn/python"> Programming for Everybody (Getting Started with Python) </a> <br> 
