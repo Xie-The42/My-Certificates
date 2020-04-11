@@ -12,18 +12,19 @@
 
 <br><b>Programming:</b>
 * Introduction to Data Science Specialization - (4courses) <br>
-<a href="https://www.coursera.org/specializations/introduction-data-science"> Info, </a> <a href="https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z"> [Credential] </a> <br>
+<a href="https://www.coursera.org/specializations/introduction-data-science"> - Info, </a> <a href="https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z"> [Credential] </a> <br>
 
 * Programming for Everybody (Getting Started with Python) <br> 
-<a href="https://www.coursera.org/learn/python"> Info, </a> <a href="https://www.coursera.org/account/accomplishments/certificate/65J38AKVGDGX"> [Credential] </a> <br>
+<a href="https://www.coursera.org/learn/python"> - Info, </a> <a href="https://www.coursera.org/account/accomplishments/certificate/65J38AKVGDGX"> [Credential] </a> <br>
 
 <br><b>Other fields:</b>
 * Measuring Disease in Epidemiology <br>
-<a href="https://www.coursera.org/learn/measuring-disease-epidemiology/home/info"> Info, </a> <a href="https://www.coursera.org/account/accomplishments/certificate/4F9T38F7X2WV"> [Credential] </a> <br>
+<a href="https://www.coursera.org/learn/measuring-disease-epidemiology/home/info"> - Info, </a> <a href="https://www.coursera.org/account/accomplishments/certificate/4F9T38F7X2WV"> [Credential] </a> <br>
 
 
 <br><b>Internal courses at work: </b>
-* Cloud Overview - An overview on cloud computing technology  <br>
+* Cloud Overview <br>
+- An overview on cloud computing technology  <br>
 * 
 --------------------------------------
 <b>In progress:</b>
