@@ -7,14 +7,14 @@
 <strong><u>Salesforce:</u></strong>
 * Salesforce Certified Marketing Cloud Email Specialist<br>
 * Salesforce Certified Marketing Cloud Consultant<br>
- >  <a href="https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=Qm3TUlnS92ADjv9/3sHgcQPT8tjnKcYGk1mueNF3yy1jrUeFxmAy1+Tth7fhnmbi"> Credential </a>
+ > <a href="https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=Qm3TUlnS92ADjv9/3sHgcQPT8tjnKcYGk1mueNF3yy1jrUeFxmAy1+Tth7fhnmbi"> Credential </a>
 
 <br><b>Programming:</b>
 * Introduction to Data Science Specialization <br>
- > <a href=" https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z> Credential </a>
+ > <a href=" https://www.coursera.org/account/accomplishments/specialization/9KQK7A5KRH4Z"> Credential </a>
 
 * Programming for Everybody (Getting Started with Python) <br>
- > <a href="https://www.coursera.org/account/accomplishments/certificate/65J38AKVGDGX> Credential </a>
+ > <a href="https://www.coursera.org/account/accomplishments/certificate/65J38AKVGDGX"> Credential </a>
 
 --------------------------------------
 <b>In progress:</b>
